@@ -60,5 +60,9 @@ typings/
 # next.js build output
 .next
 
+<<<<<<< HEAD
 .dist/
 
+=======
+dist/
+>>>>>>> 9bda95ff227a860a0647ba4838380484800a464c
