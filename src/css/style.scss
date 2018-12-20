@@ -1,4 +1,32 @@
+// Desing
+//
+// Desing rules.
+//
+// weight:1
+//
+// Style guide/ Desing
+
 @import './settings/_color.scss';
+
+
+// Elements
+//
+// Every UI elements.
+//
+// weight:2
+//
+// Style guide: Elements
+@import './elements/_btn.scss';
+
+//components
+//
+// blocks and components.
+//
+// weight:3
+//
+// Style guide: Components
+@import './components/_alert.scss';
+
 
 body {
   background-color: $color-light;
